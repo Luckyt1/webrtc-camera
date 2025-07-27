@@ -2,8 +2,11 @@
   
 ## 使用方法
 ````
-cd ~/Vr_code/webrtc-streamer
+cd ~/Vr_code/webrtc-streamer-v0.7.2-Linux-x86_64-Release/
 ./webrtc-streamer
+````
+再开一个终端
+````
 gcc -o test test.c
 ./test
 ````
