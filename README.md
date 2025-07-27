@@ -8,4 +8,5 @@ gcc -o test test.c
 ./test
 ````
 //如果出现权限问题记得chmod
+
 //第一步应该是打开webrtc-streamer
